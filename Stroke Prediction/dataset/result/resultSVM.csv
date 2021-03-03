@@ -1,0 +1,5 @@
+parameter,score,algorithm
+accuracy,75.0,SVM
+precision,69.0,SVM
+recall,87.0,SVM
+f1-score,77.0,SVM

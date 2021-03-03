@@ -1,0 +1,5 @@
+parameter,score,algorithm
+accuracy,99.0,XGBoost
+precision,97.0,XGBoost
+recall,100.0,XGBoost
+f1-score,99.0,XGBoost

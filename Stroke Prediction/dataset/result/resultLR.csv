@@ -1,0 +1,5 @@
+parameter,score,algorithm
+accuracy,78.0,Logistic Regression
+precision,75.0,Logistic Regression
+recall,84.0,Logistic Regression
+f1-score,79.0,Logistic Regression

@@ -1,0 +1,5 @@
+parameter,score,algorithm
+accuracy,97.0,Decision Tree
+precision,94.0,Decision Tree
+recall,100.0,Decision Tree
+f1-score,97.0,Decision Tree
